@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Jakub Konert
+Hi, I am Jakub and I am a 3rd (2021) year student of biomedical engineering at the Gdańsk University of Technology. Currently, I am learning C#, Python and some framework of them.
 
-<!--
-**JakubKonert/JakubKonert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C# / Python / 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Engineering Thesis 
+- 🌱 I’m currently learning frameworks and people detection 
+- ⚡ Fun fact: I can't make pancakes :( 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JakubKonert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jakub-konert-37967922b//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/JakubKonert)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/JakubKonert&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/JakubKonert)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/JakubKonert)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/JakubKonert)  
