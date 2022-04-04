@@ -12,9 +12,7 @@ Skills: C# / Python /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubKonert)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubKonert&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JakubKonert)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubKonert&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/JakubKonert)  
 
