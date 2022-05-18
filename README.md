@@ -1,10 +1,10 @@
 ### Hi there 👋, Jakub Konert
-Hi, I am Jakub and I am a 3rd (2021) year student of biomedical engineering at the Gdańsk University of Technology. Currently, I am learning C#, Python and some framework of them.
+Hi, I am Jakub and I am a 3rd (2021) year student of biomedical engineering at the Gdańsk University of Technology. Currently, I am learning C#, Python and Machine Learning.
 
 Skills: C# / Python / 
 
 - 🔭 I’m currently working on Engineering Thesis 
-- 🌱 I’m currently learning frameworks and people detection 
+- 🌱 I’m currently learning machine learning and people detection 
 - ⚡ Fun fact: I can't make pancakes :( 
 
 
