@@ -5,7 +5,7 @@ Skills: C# / Python /
 
 - 🔭 I’m currently working on Engineering Thesis 
 - 🌱 I’m currently learning machine learning and people detection 
-- ⚡ Fun fact: I can't make pancakes :( 
+- ⚡ Fun fact: I can't make pancakes :( (Edit: I can already ^^)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JakubKonert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jakub-konert-37967922b//)  
