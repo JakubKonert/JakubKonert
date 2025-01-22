@@ -1,5 +1,5 @@
 ### Hi there 👋, Jakub Konert
-Hi, I am Jakub and I am a 2rd (2024) year student of computer science master degree at the Gdańsk University of Technology. Currently, I am learning C#, Python and Machine Learning.
+Hi, I am Jakub and I am a 2rd (2025) year student of computer science master degree at the Gdańsk University of Technology. Currently, I am learning C#, Python and Machine Learning.
 
 Skills: C# / Python / Angular
 
